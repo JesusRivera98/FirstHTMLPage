@@ -14,4 +14,7 @@
     <li>
         git remote add origin
     </li>
+    <li>
+        git push -u origin master
+    </li>
 </ol>
